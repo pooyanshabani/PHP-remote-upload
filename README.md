@@ -9,7 +9,7 @@ For eg. h2h.php
 
 We need to edit the php file with the Direct Admin’s Editor, or C Panel’s Editor and include the following codes in. 
 
-
+```php
 <?php
 	$source = 'http://pooyan-shabani.ir/download/h2h.zip';
 
@@ -23,7 +23,7 @@ We need to edit the php file with the Direct Admin’s Editor, or C Panel’s Ed
 
 	echo 'Done';
 ?>
-
+```
 
 Now just to change the download path of the desired file in the “source” field. And put all the above code in html tags (exactly like the below example) and load the php file created from the browser.
 
