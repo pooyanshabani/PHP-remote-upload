@@ -27,6 +27,7 @@ We need to edit the php file with the Direct Admin’s Editor, or C Panel’s Ed
 
 Now just to change the download path of the desired file in the “source” field. And put all the above code in html tags (exactly like the below example) and load the php file created from the browser.
 
+```html
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -48,7 +49,7 @@ Now just to change the download path of the desired file in the “source” fie
 ?>
 </body>
 </html>
-
+```
 After loading, you should see the message “Done”, it mens the operation has been completed successfully.
 This method is used for transferring large files, complete transfer of the site to other hosts and…
 
