@@ -1,5 +1,6 @@
 ### Transfer file(s) from one host to another without downloading (Remote Upload) ###
-#It often happens that we use the most common method to transfer a file from one host to another with a specific address or link.
+#
+It often happens that we use the most common method to transfer a file from one host to another with a specific address or link.
 
 Meaning, downloading the file and re-uploading it to other hosts, but this method may be convenient for smal size files, but if we want to transfer a large file, in addition to Internet traffic, we lose a lot of time to download and re-upload.
 
