@@ -55,4 +55,4 @@ This method is used for transferring large files, complete transfer of the site 
 Download the h2h.php file via the below button. (Zip file)
 
 #
-[!readmore](https://pooyan-shabani.ir/tricks/transfer-files-to-another-without-downloading/)
+![readmore](https://pooyan-shabani.ir/tricks/transfer-files-to-another-without-downloading/)
